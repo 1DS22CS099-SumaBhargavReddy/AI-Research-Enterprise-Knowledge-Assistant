@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Environment files
+.env
+.env.local
+
+# Database and uploaded files
+backend/app/knowledge.db
+backend/uploads/
+uploads/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
