@@ -1,6 +1,7 @@
 # AI-Research-Enterprise-Knowledge-Assistant
 
 This project implements a production-grade, highly-aesthetic full-stack enterprise knowledge discovery platform. It combines a FastAPI backend, a React frontend, Qdrant vector search, PostgreSQL metadata storage, local Machine Learning (recommendations) and Deep Learning (classification), Explainable AI (LIME/SHAP-like word importance heatmap), and MLOps/monitoring configurations using Prometheus and Grafana.
+<img width="1771" height="860" alt="image" src="https://github.com/user-attachments/assets/ba90b04e-31c4-48de-a9af-3c86fc6bb090" />
 
 ## Proposed Architecture
 
